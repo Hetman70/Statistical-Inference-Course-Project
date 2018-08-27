@@ -16,8 +16,8 @@ Illustrate via simulation and associated explanatory text the properties of the 
 
 1. Show the sample mean and compare it to the theoretical mean of the distribution.
 2. Show how variable the sample is (via variance) and compare it to the theoretical variance of the distribution.
-3. Show that the distribution is approximately normal.
-<br/>In point 3, focus on the difference between the distribution of a large collection of random exponentials and the distribution of a large collection of averages of 40 exponentials.
+3. Show that the distribution is approximately normal. <br/><br/>
+In point 3, focus on the difference between the distribution of a large collection of random exponentials and the distribution of a large collection of averages of 40 exponentials.
 
 As a motivating example, compare the distribution of 1000 random uniforms
 
